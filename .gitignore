@@ -1,0 +1,28 @@
+# IntelliJ IDEA 설정
+.idea/
+*.iml
+*.iws
+
+# 빌드 산출물 (Maven/Gradle)
+target/
+build/
+out/
+.gradle/
+.settings/
+.classpath
+.project
+
+# 자바 컴파일 파일
+*.class
+
+# 로그 파일
+*.log
+logs/
+
+# OS 파일
+.DS_Store
+Thumbs.db
+
+# 로컬 환경 설정
+.env
+*.local
